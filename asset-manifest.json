@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TODO-GHPAGES/static/css/main.5309156f.chunk.css",
+    "main.js": "/TODO-GHPAGES/static/js/main.07cf15eb.chunk.js",
+    "main.js.map": "/TODO-GHPAGES/static/js/main.07cf15eb.chunk.js.map",
+    "runtime-main.js": "/TODO-GHPAGES/static/js/runtime-main.11b11e4d.js",
+    "runtime-main.js.map": "/TODO-GHPAGES/static/js/runtime-main.11b11e4d.js.map",
+    "static/js/2.80961159.chunk.js": "/TODO-GHPAGES/static/js/2.80961159.chunk.js",
+    "static/js/2.80961159.chunk.js.map": "/TODO-GHPAGES/static/js/2.80961159.chunk.js.map",
+    "index.html": "/TODO-GHPAGES/index.html",
+    "static/css/main.5309156f.chunk.css.map": "/TODO-GHPAGES/static/css/main.5309156f.chunk.css.map",
+    "static/js/2.80961159.chunk.js.LICENSE.txt": "/TODO-GHPAGES/static/js/2.80961159.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11b11e4d.js",
+    "static/js/2.80961159.chunk.js",
+    "static/css/main.5309156f.chunk.css",
+    "static/js/main.07cf15eb.chunk.js"
+  ]
+}
